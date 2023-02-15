@@ -17,3 +17,5 @@ class Team {
   }
 }
 ```
+
+[![Build status](https://ci.appveyor.com/api/projects/status/u9tn6civnaaqquin/branch/main?svg=true)](https://ci.appveyor.com/project/IPL1987/ajs-symbols-generator/branch/main)
